@@ -1,2 +1,5 @@
 # ANN-2025
-Building a classic Artificial Neural Network for Classification
+
+## Artificial Neural Networks
+- Why standardize or normalize independent variables before training a model
+- 
